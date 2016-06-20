@@ -1,3 +1,12 @@
+# Membres de l'équipe:
+
+- Dany Giguère
+- Vanessa Cain-Skaff
+- Rosibel Blanco
+- Raphaël Machiels
+- Jérôme Cloutier
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
